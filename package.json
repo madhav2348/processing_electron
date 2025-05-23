@@ -1,0 +1,16 @@
+{
+  "name": "3d_basic_shader_copy_2025_05_23_07_47_58",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^36.3.1"
+  }
+}
